@@ -36,7 +36,7 @@
 把本仓库克隆（或下载解压）到用户技能目录：
 
 ```bash
-git clone https://github.com/<你的用户名>/sprite-loop-animator.git
+git clone https://github.com/863563368/sprite-loop-animator.git
 # Windows
 move sprite-loop-animator %USERPROFILE%\.workbuddy\skills\
 # macOS / Linux
